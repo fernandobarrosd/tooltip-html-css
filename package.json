@@ -1,0 +1,13 @@
+{
+  "name": "tooltip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "sass": "sass --watch src/scss/index.scss:src/css/index.css",
+    "start": "vite"
+  },
+  "devDependencies": {
+    "vite": "^4.2.1"
+  }
+}
